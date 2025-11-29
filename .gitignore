@@ -1,0 +1,11 @@
+
+
+
+# Ignore a folder
+History/
+
+# Ignore by extension
+*.PrjPcbStructure
+
+
+
