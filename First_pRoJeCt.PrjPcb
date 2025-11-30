@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MVRQFXPD
 
 [Document2]
 DocumentPath=Schlib1.SchLib
@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MXGRJDSE
 
 [Document3]
 DocumentPath=PCB1.PcbDoc
@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HCMEQLVC
 
 [Document4]
 DocumentPath=PcbLib1.PcbLib
@@ -115,7 +115,15 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DDPHSSBQ
+
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for First_pRoJeCt\Design Rule Check - PCB1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
